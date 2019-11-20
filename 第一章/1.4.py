@@ -1,0 +1,5 @@
+print("a\t\ta^2\t\ta^3")
+print("1\t\t1\t\t1")
+print("2\t\t4\t\t8")
+print("3\t\t9\t\t27")
+print("4\t\t16\t\t64")
